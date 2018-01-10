@@ -9,4 +9,5 @@ while(n!=0)
 n/=10;
 ++count;
 }
+printf("count=%d",count);
 }
